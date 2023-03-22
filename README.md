@@ -1,4 +1,10 @@
-### Hi there 👋
+#### Hi there 👋
 I'm Kunal from India, and I do content in Design and Development. I enjoy wireframing and learning new languages and frameworks like react.
 
-[![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=notdatkunal)](https://github.com/notdatkunal/github-readme-stats)
+
+## Acknowledgements
+
+ - [Tindog](https://github.com/notdatkunal/tindog.git)
+ - [My-Site](https://github.com/notdatkunal/My-site.git)
+ - [Java project](https://github.com/notdatkunal/Swiggy.git)
+
