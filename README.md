@@ -1,8 +1,5 @@
 #### Hi there 👋
-I'm Kunal from India, and I do content in Design and Development. I enjoy wireframing and learning new languages and frameworks like react.
-
-
-Hi there! I'm Kunal, a passionate software developer with 1 year of experience in Java. I love creating elegant solutions to complex problems and always strive to improve my skills and knowledge.
+ I'm Kunal, a passionate software developer with enthusiasm in Java. I love creating elegant solutions to complex problems and always strive to improve my skills and knowledge.
 
 Currently, I'm working as backend developer. My expertise lies in java,javascript,frontend, design and I have a strong background in maths. I believe in the power of collaboration and open source, and always seek to give back to the community.
 
