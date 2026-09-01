@@ -2,7 +2,7 @@
 
 # Hey there, I'm Kunal 👋
 
-### **Software Engineer • Systems Enthusiast • Open Source Builder • Motorcyclist 🏍️**
+### **Software Engineer • Full-Stack & Distributed Backend Architecture • Scalable Systems**
 
 <p align="center">
   <a href="https://twitter.com/notdatkunal"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
@@ -13,14 +13,14 @@
 ---
 
 <p align="center">
-  <i>Building high-throughput backend pipelines, real-time audio systems, IoT telemetry platforms, and gamified developer experiences.</i>
+  <i>Specializing in scalable distributed backend services, high-throughput data pipelines, real-time systems, and cross-platform applications.</i>
 </p>
 
 </div>
 
 ---
 
-## ⚡ What I'm Building & Architecting
+## ⚡ Featured Projects & Architectures
 
 <table>
   <tr>
@@ -103,5 +103,5 @@
 ---
 
 <div align="center">
-  <sub>⭐ Always exploring new ideas in distributed systems, real-time voice, and IoT. Feel free to connect!</sub>
+  <sub>⭐ Always exploring scalable distributed systems, high-concurrency backends, and real-time platforms. Feel free to connect!</sub>
 </div>
