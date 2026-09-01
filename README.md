@@ -1,20 +1,103 @@
-#### Hi there 👋
-- I'm Kunal, I'm a software developer who loves designing, programming, and software engineering efficient and elegant software solutions to complex problems.
-- I'm a software engineer. My expertise lies in domains like java, javascript, dart, kotlin, PHP, Python, Dart, UI/UX Design. I believe in the power of collaboration and open source, and always seek to give back to the community.
-- In my free time, I enjoy chess and bike riding. Feel free to reach out to me if you have any questions or just want to chat about programming in general. 
-- You can also find me on [twitter](https://twitter.com/notdatkunal).
+<div align="center">
 
-#### Thanks for stopping by!
+# Hey there, I'm Kunal 👋
 
+### **Software Engineer • Systems Enthusiast • Open Source Builder • Motorcyclist 🏍️**
 
+<p align="center">
+  <a href="https://twitter.com/notdatkunal"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://github.com/notdatkunal"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:kunal@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
+---
 
+<p align="center">
+  <i>Building high-throughput backend pipelines, real-time audio systems, IoT telemetry platforms, and gamified developer experiences.</i>
+</p>
 
-## Acknowledgements
+</div>
 
- - [Java Full Stack Project](https://github.com/notdatkunal/shoppingcart.git)
- - [Landing Page Project](https://notdatkunal.github.io/tindog/)
- - [Quarkus Project](https://github.com/notdatkunal/shoppingcart.git)
- - [Spring Boot Project](https://github.com/notdatkunal/cvirmsBackend.git)
- - [Node Application](https://github.com/notdatkunal/nodeApplication.git) 
- - [Java Command Line Application project](https://github.com/notdatkunal/Swiggy.git) 
+---
+
+## ⚡ What I'm Building & Architecting
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔥 <a href="https://github.com/notdatkunal/duocode">DuoCode</a></h3>
+      <p>The all-in-one developer super-platform: Duolingo-style LeetCode streak coach with an unhinged mascot, <b>The Vault</b> solution scrapbook, and <b>GitMatch</b> swipe-based repo & dev matchmaking.</p>
+      <p><code>Next.js</code> • <code>React Native</code> • <code>PostgreSQL</code> • <code>pgvector</code> • <code>WebExtensions</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏍️ <a href="https://github.com/notdatkunal/motopilot">MotoPilot</a></h3>
+      <p>Intelligent AI voice co-pilot ("Jarvis for Bikers"), road hazard & highway violation reporter, crash eCall with live vitals telemetry, and <b>MotoQuest</b> screen-free offline mesh gaming.</p>
+      <p><code>ESP32 IoT</code> • <code>BLE 5.2 Mesh</code> • <code>WebRTC</code> • <code>IMU Algorithms</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💪 <a href="https://github.com/notdatkunal/biceop">Biceop</a></h3>
+      <p>Next-generation fitness & hypertrophy platform integrating wearable sensor telemetry for real-time <b>Blood Pressure (BP)</b>, <b>Continuous Glucose (CGM)</b>, and autonomic HRV recovery.</p>
+      <p><code>FastAPI</code> • <code>React Native</code> • <code>TimescaleDB</code> • <code>BLE GATT</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔊 <a href="https://github.com/notdatkunal/soundbite">SoundBite</a></h3>
+      <p>Social messaging and live voice room platform built around 2FA chat, short audio stickers, and interactive live soundboard drops on WebRTC voice stages.</p>
+      <p><code>WebRTC SFU</code> • <code>LiveKit</code> • <code>Opus Audio</code> • <code>NestJS</code> • <code>Redis</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📉 <a href="https://github.com/notdatkunal/pricedrop">PriceDrop</a></h3>
+      <p>Cross-platform e-commerce & quick-commerce price tracking engine for Amazon, Flipkart, Myntra, and Blinkit with historical graphs and sub-minute deal alerts.</p>
+      <p><code>Playwright</code> • <code>Celery</code> • <code>TimescaleDB</code> • <code>FastAPI</code> • <code>FCM</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>☀️ <a href="https://github.com/notdatkunal/brightnews">BrightNews</a></h3>
+      <p>Positive, wholesome, and drama-free news media platform delivering only constructive journalism, tech breakthroughs, and uplifting stories.</p>
+      <p><code>React</code> • <code>FastAPI</code> • <code>NLP Sentiment Filtering</code></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Systems & Core Engineering Highlights
+
+- ⚙️ **[kuflexVCS](https://github.com/notdatkunal/kuflexVCS)** – Version Control System built from scratch in Java (objects, commit trees, hashing, and DAG history).
+- ⚙️ **[ccpyredis](https://github.com/notdatkunal/ccpyredis)** – Custom Redis server implementation from scratch in Python adhering to RESP wire protocol.
+- ⚙️ **[librepg](https://github.com/notdatkunal/librepg)** – Zero-config, lightweight PostgreSQL runtime.
+- ⚙️ **[gitman](https://github.com/notdatkunal/gitman)** – CLI tool for GitHub bare repository management.
+- ⚙️ **[VeritasEngine](https://github.com/notdatkunal/VeritasEngine)** – Custom analytical and processing engine.
+
+---
+
+## 💻 Tech Stack & Toolbelt
+
+<div align="center">
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | `Python` • `TypeScript` • `JavaScript` • `Java` • `Go` • `C++` • `Dart` • `SQL` |
+| **Backend & APIs** | `FastAPI` • `Node.js` • `NestJS` • `Spring Boot` • `GraphQL` • `REST` • `WebSockets` |
+| **Frontend & Mobile** | `Next.js` • `React` • `React Native` • `Flutter` • `Tailwind CSS` • `Monaco Editor` |
+| **Data & Streaming** | `PostgreSQL` • `TimescaleDB` • `Redis` • `Kafka` • `pgvector` • `SQLite` |
+| **IoT & Systems** | `ESP32` • `BLE 5.2 (Bluetooth Low Energy)` • `WebRTC SFU` • `Docker` • `Linux` |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=notdatkunal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notdatkunal&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <sub>⭐ Always exploring new ideas in distributed systems, real-time voice, and IoT. Feel free to connect!</sub>
+</div>
