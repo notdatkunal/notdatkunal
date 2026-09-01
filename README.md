@@ -92,8 +92,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=notdatkunal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notdatkunal&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=notdatkunal&show_icons=true&theme=tokyonight&hide_border=true" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=notdatkunal&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <img src="https://streak-stats.demolab.com/?user=notdatkunal&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak" />
 </div>
 
 ---
