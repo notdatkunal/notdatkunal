@@ -2,7 +2,7 @@
 
 # Hey there, I'm Kunal 👋
 
-### ** Software Engineer • Backend & Distributed Systems Specialist**
+### **Software Engineer • Backend & Distributed Systems Specialist**
 
 <p align="center">
   <a href="https://twitter.com/notdatkunal"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
