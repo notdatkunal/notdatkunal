@@ -66,9 +66,9 @@
       <p><code>React</code> • <code>FastAPI</code> • <code>NLP Sentiment Filtering</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚙️ <a href="https://github.com/notdatkunal/kuflexVCS">kuflexVCS</a></h3>
-      <p>Custom Version Control System built from scratch in Java with objects, commit trees, hashing algorithms, and directed acyclic graph (DAG) commit history tracking.</p>
-      <p><code>Java</code> • <code>Systems Programming</code> • <code>DAG</code> • <code>SHA Hashing</code></p>
+      <h3>⚙️ <a href="https://github.com/notdatkunal/gitman">GitMan</a></h3>
+      <p>CLI application and workflow tool for automated GitHub bare repository management, worktree orchestration, and isolated branch context switching.</p>
+      <p><code>Python</code> • <code>CLI</code> • <code>Git Internals</code> • <code>Developer Tools</code></p>
     </td>
   </tr>
 </table>
@@ -77,10 +77,9 @@
 
 ## 🛠️ Systems & Core Engineering Highlights
 
-- ⚙️ **[kuflexVCS](https://github.com/notdatkunal/kuflexVCS)** – Version Control System built from scratch in Java (objects, commit trees, hashing, and DAG history).
+- ⚙️ **[gitman](https://github.com/notdatkunal/gitman)** – CLI tool for GitHub bare repository management.
 - ⚙️ **[ccpyredis](https://github.com/notdatkunal/ccpyredis)** – Custom Redis server implementation from scratch in Python adhering to RESP wire protocol.
 - ⚙️ **[librepg](https://github.com/notdatkunal/librepg)** – Zero-config, lightweight PostgreSQL runtime.
-- ⚙️ **[gitman](https://github.com/notdatkunal/gitman)** – CLI tool for GitHub bare repository management.
 - ⚙️ **[VeritasEngine](https://github.com/notdatkunal/VeritasEngine)** – Custom analytical and processing engine.
 
 ---
