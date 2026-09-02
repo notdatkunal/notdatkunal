@@ -2,7 +2,7 @@
 
 # Hey there, I'm Kunal 👋
 
-### **Software Engineer • Backend & Distributed Systems Specialist**
+### **Senior Software Engineer • Backend & Distributed Systems Specialist**
 
 <p align="center">
   <a href="https://twitter.com/notdatkunal"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
@@ -25,38 +25,38 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/notdatkunal/prahari">Prahari (प्रहरी)</a></h3>
+      <p>The Sentinel: Commercial visitor & guest registry connecting hotels, PGs, and petrol pumps with hierarchical police intelligence (Geo-RBAC), real-time criminal watchlist interception, and 1-click SOS emergency dispatch.</p>
+      <p><code>FastAPI</code> • <code>PostgreSQL + PostGIS</code> • <code>Geo-RBAC</code> • <code>WebSockets</code> • <code>React</code></p>
+    </td>
+    <td width="50%" valign="top">
       <h3>🔥 <a href="https://github.com/notdatkunal/duocode">DuoCode</a></h3>
       <p>The all-in-one developer super-platform: Duolingo-style LeetCode streak coach with an unhinged mascot, <b>The Vault</b> solution scrapbook, and <b>GitMatch</b> swipe-based repo & dev matchmaking.</p>
       <p><code>Next.js</code> • <code>React Native</code> • <code>PostgreSQL</code> • <code>pgvector</code> • <code>WebExtensions</code></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🏍️ <a href="https://github.com/notdatkunal/motopilot">MotoPilot</a></h3>
       <p>Intelligent AI voice co-pilot ("Jarvis for Bikers"), road hazard & highway violation reporter, crash eCall with live vitals telemetry, and <b>MotoQuest</b> screen-free offline mesh gaming.</p>
       <p><code>ESP32 IoT</code> • <code>BLE 5.2 Mesh</code> • <code>WebRTC</code> • <code>IMU Algorithms</code></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>💪 <a href="https://github.com/notdatkunal/biceop">Biceop</a></h3>
       <p>Next-generation fitness & hypertrophy platform integrating wearable sensor telemetry for real-time <b>Blood Pressure (BP)</b>, <b>Continuous Glucose (CGM)</b>, and autonomic HRV recovery.</p>
       <p><code>FastAPI</code> • <code>React Native</code> • <code>TimescaleDB</code> • <code>BLE GATT</code></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🔊 <a href="https://github.com/notdatkunal/soundbite">SoundBite</a></h3>
       <p>Social messaging and live voice room platform built around 2FA chat, short audio stickers, and interactive live soundboard drops on WebRTC voice stages.</p>
       <p><code>WebRTC SFU</code> • <code>LiveKit</code> • <code>Opus Audio</code> • <code>NestJS</code> • <code>Redis</code></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>📉 <a href="https://github.com/notdatkunal/pricedrop">PriceDrop</a></h3>
       <p>Cross-platform e-commerce & quick-commerce price tracking engine for Amazon, Flipkart, Myntra, and Blinkit with historical graphs and sub-minute deal alerts.</p>
       <p><code>Playwright</code> • <code>Celery</code> • <code>TimescaleDB</code> • <code>FastAPI</code> • <code>FCM</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>☀️ <a href="https://github.com/notdatkunal/brightnews">BrightNews</a></h3>
-      <p>Positive, wholesome, and drama-free news media platform delivering only constructive journalism, tech breakthroughs, and uplifting stories.</p>
-      <p><code>React</code> • <code>FastAPI</code> • <code>NLP Sentiment Filtering</code></p>
     </td>
   </tr>
 </table>
@@ -82,7 +82,7 @@
 | **Languages** | `Python` • `TypeScript` • `JavaScript` • `Java` • `Go` • `C++` • `Dart` • `SQL` |
 | **Backend & APIs** | `FastAPI` • `Node.js` • `NestJS` • `Spring Boot` • `GraphQL` • `REST` • `WebSockets` |
 | **Frontend & Mobile** | `Next.js` • `React` • `React Native` • `Flutter` • `Tailwind CSS` • `Monaco Editor` |
-| **Data & Streaming** | `PostgreSQL` • `TimescaleDB` • `Redis` • `Kafka` • `pgvector` • `SQLite` |
+| **Data & Streaming** | `PostgreSQL` • `PostGIS` • `TimescaleDB` • `Redis` • `Kafka` • `pgvector` • `SQLite` |
 | **IoT & Systems** | `ESP32` • `BLE 5.2 (Bluetooth Low Energy)` • `WebRTC SFU` • `Docker` • `Linux` |
 
 </div>
