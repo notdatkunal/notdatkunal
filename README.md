@@ -59,6 +59,18 @@
       <p><code>Playwright</code> • <code>Celery</code> • <code>TimescaleDB</code> • <code>FastAPI</code> • <code>FCM</code></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☀️ <a href="https://github.com/notdatkunal/brightnews">BrightNews</a></h3>
+      <p>Positive, wholesome, and drama-free news media platform delivering only constructive journalism, tech breakthroughs, and uplifting stories.</p>
+      <p><code>React</code> • <code>FastAPI</code> • <code>NLP Sentiment Filtering</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ <a href="https://github.com/notdatkunal/kuflexVCS">kuflexVCS</a></h3>
+      <p>Custom Version Control System built from scratch in Java with objects, commit trees, hashing algorithms, and directed acyclic graph (DAG) commit history tracking.</p>
+      <p><code>Java</code> • <code>Systems Programming</code> • <code>DAG</code> • <code>SHA Hashing</code></p>
+    </td>
+  </tr>
 </table>
 
 ---
